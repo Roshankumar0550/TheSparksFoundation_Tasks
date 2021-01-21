@@ -15,3 +15,8 @@ Dataset : https://bit.ly/3kXTdox
 Perform ‘Exploratory Data Analysis’ on the dataset
 
 Dataset : https://bit.ly/3i4rbWl
+
+# Task-4
+Perform ‘Exploratory Data Analysis’ on the dataset "Global Terrorism".
+
+Dataset : https://bit.ly/2TK5Xn5
